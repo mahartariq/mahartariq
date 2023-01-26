@@ -6,10 +6,7 @@
 </p>
 
 
-![Metrics](https://metrics.lecoq.io/mahartariq?template=terminal&code=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&tweets=false&tweets.user=mahartariq&tweets.attachments=false&tweets.limit=2&config.timezone=Asia%2FKarachi)
-
-
-
+![Metrics](https://metrics.lecoq.io/mahartariq?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKarachi)
 
 
 <p align ="center">
@@ -17,8 +14,3 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
   </p>
-
-
-
-
-[Muhammad Tariq](https://github.com/mahartariq/My-AI-Journey)
