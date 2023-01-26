@@ -7,7 +7,6 @@
 
 
 
-![https://metrics.lecoq.io/mahartariq](https://metrics.lecoq.io/mahartariq)
 
 
 
